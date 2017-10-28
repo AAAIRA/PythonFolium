@@ -32,3 +32,17 @@ folium.Marker(location=[-6.318646, 106.952765],popup='Jatiluhur',icon=folium.Ico
 folium.Marker(location=[-6.223090, 107.004950],popup='Marga Mulya',icon=folium.Icon(icon='info-sign')).add_to(rifa)
 folium.Marker(location=[-6.328883, 106.953452],popup='Jatisari',icon=folium.Icon(icon='info-sign')).add_to(rifa)
 folium.Marker(location=[-6.341167, 107.003577],popup='Bantar Gebang',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+
+import folium
+
+ari = folium.Map(location=[-6.241586,  106.992416],zoom_start=10,)
+folium.Marker(location=[-6.242777, 106.992591],popup='BNI Syariah Bekasi',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.245673, 106.986157],popup='Pasar Bambu Kuning',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.247171, 106.987342],popup='PT. Duta Culture Pulsa',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.247304, 106.986768],popup='Masjid Al-Muhajirin',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.248229, 106.986065],popup='Rental Mobil Bekasi Selatan Chandras',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.248195, 106.986844],popup='GSX Community Bekasi',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.245514, 106.989533],popup='Jalan Tawes 1',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.245746, 106.988813],popup='Waroeng 222',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.246189, 106.988671],popup='Farazi Bakery',icon=folium.Icon(icon='info-sign')).add_to(ari)
+folium.Marker(location=[-6.246414, 106.988303],popup='Istana Tekstile',icon=folium.Icon(icon='info-sign')).add_to(ari)
