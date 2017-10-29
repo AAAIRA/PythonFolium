@@ -22,10 +22,6 @@ folium.Marker([-6.253313, 106.940807], popup='<i>Zaky Cell</i>').add_to(bekasi)
 folium.Marker([-6.253217, 106.941282], popup='<i>Ameira Bakery & Cake</i>').add_to(bekasi)
 folium.Marker([-6.252342, 106.942264], popup='<i>Pondok Kelapa Gardenia</i>').add_to(bekasi)
 folium.Marker([-6.252246, 106.943587], popup='<i>PT. Medan Andalas</i>').add_to(bekasi)
-
-import folium
-
-bekasi = folium.Map(location=[-6.241586,  106.992416],zoom_start=10,)
 folium.Marker(location=[-6.173932, 106.972844],popup='Medan Satria',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.263362, 106.908820],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.386206, 106.914999],popup='Jatikarya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
@@ -56,3 +52,4 @@ folium.Marker(location=[-6.245514, 106.989533],popup='Jalan Tawes 1',icon=folium
 folium.Marker(location=[-6.245746, 106.988813],popup='Waroeng 222',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.246189, 106.988671],popup='Farazi Bakery',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.246414, 106.988303],popup='Istana Tekstile',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.248572, 106.9884466],popup='Metropolitan Mall Bekasi Barat',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
