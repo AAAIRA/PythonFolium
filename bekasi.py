@@ -18,6 +18,16 @@ folium.Marker([-6.242488, 106.999878], popup='<i>Alun-alun Kota Bekasi</i>').add
 folium.Marker([-6.242775, 107.000325], popup='<i>Gedung Sartika</i>').add_to(aryaniken)
 folium.Marker([-6.244090, 106.999518], popup='<i>Polres Metro Kota Bekasi</i>').add_to(aryaniken)
 folium.Marker([-6.246491, 107.004786], popup='<i>STIKES Bani Saleh</i>').add_to(aryaniken)
+folium.Marker([-6.254557, 106.989730], popup='<i>Revo Town</i>').add_to(aryaniken)
+folium.Marker([-6.256301, 106.934319], popup='<i>Rumah Belajar Persada</i>').add_to(aryaniken)
+folium.Marker([-6.256238, 106.934874], popup='<i>Kafe Taman Sari</i>').add_to(aryaniken)
+folium.Marker([-6.254354, 106.936900], popup='<i>Bali Ratih</i>').add_to(aryaniken)
+folium.Marker([-6.254237, 106.938287], popup='<i>Warung Pak Teguh Uban</i>').add_to(aryaniken)
+folium.Marker([-6.253113, 106.939471], popup='<i>Cemara Ban</i>').add_to(aryaniken)
+folium.Marker([-6.253313, 106.940807], popup='<i>Zaky Cell</i>').add_to(aryaniken)
+folium.Marker([-6.253217, 106.941282], popup='<i>Ameira Bakery & Cake</i>').add_to(aryaniken)
+folium.Marker([-6.252342, 106.942264], popup='<i>Pondok Kelapa Gardenia</i>').add_to(aryaniken)
+folium.Marker([-6.252246, 106.943587], popup='<i>PT. Medan Andalas</i>').add_to(aryaniken)
 
 import folium
 
@@ -32,10 +42,16 @@ folium.Marker(location=[-6.318646, 106.952765],popup='Jatiluhur',icon=folium.Ico
 folium.Marker(location=[-6.223090, 107.004950],popup='Marga Mulya',icon=folium.Icon(icon='info-sign')).add_to(rifa)
 folium.Marker(location=[-6.328883, 106.953452],popup='Jatisari',icon=folium.Icon(icon='info-sign')).add_to(rifa)
 folium.Marker(location=[-6.341167, 107.003577],popup='Bantar Gebang',icon=folium.Icon(icon='info-sign')).add_to(rifa)
-
-import folium
-
-ari = folium.Map(location=[-6.241586,  106.992416],zoom_start=10,)
+folium.Marker(location=[-6.261997, 106.908991],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.296977, 106.913111],popup='Jatirahayu',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.310456, 107.036364],popup='Cimuning',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.198858, 107.031901],popup='Tik. Pucung',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.228551, 107.034647],popup='Duren Jaya',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.262211, 107.020013],popup='Marga Rahayu',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.266647, 107.027534],popup='Jl. Toyogiri Sel. No.149',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.272577, 107.031310],popup='Jl. Jati Mulya No.143',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.268375, 107.032008],popup='Jl. Toyogiri Sel. No.62',icon=folium.Icon(icon='info-sign')).add_to(rifa)
+folium.Marker(location=[-6.284326, 107.038603],popup='Lambangsari',icon=folium.Icon(icon='info-sign')).add_to(rifa)
 folium.Marker(location=[-6.242777, 106.992591],popup='BNI Syariah Bekasi',icon=folium.Icon(icon='info-sign')).add_to(ari)
 folium.Marker(location=[-6.245673, 106.986157],popup='Pasar Bambu Kuning',icon=folium.Icon(icon='info-sign')).add_to(ari)
 folium.Marker(location=[-6.247171, 106.987342],popup='PT. Duta Culture Pulsa',icon=folium.Icon(icon='info-sign')).add_to(ari)
@@ -46,26 +62,3 @@ folium.Marker(location=[-6.245514, 106.989533],popup='Jalan Tawes 1',icon=folium
 folium.Marker(location=[-6.245746, 106.988813],popup='Waroeng 222',icon=folium.Icon(icon='info-sign')).add_to(ari)
 folium.Marker(location=[-6.246189, 106.988671],popup='Farazi Bakery',icon=folium.Icon(icon='info-sign')).add_to(ari)
 folium.Marker(location=[-6.246414, 106.988303],popup='Istana Tekstile',icon=folium.Icon(icon='info-sign')).add_to(ari)
-
-import folium
-
-aryaniken = folium.Map(
-    location=[-6.226695, 106.996265],
-    zoom_start=10,
-    tiles='Stamen Terrain'
-)
-
-tooltip = 'Click me!'
-
-folium.Marker([-6.254557, 106.989730], popup='<i>Revo Town</i>').add_to(aryaniken)
-folium.Marker([-6.256301, 106.934319], popup='<i>Rumah Belajar Persada</i>').add_to(aryaniken)
-folium.Marker([-6.256238, 106.934874], popup='<i>Kafe Taman Sari</i>').add_to(aryaniken)
-folium.Marker([-6.254354, 106.936900], popup='<i>Bali Ratih</i>').add_to(aryaniken)
-folium.Marker([-6.254237, 106.938287], popup='<i>Warung Pak Teguh Uban</i>').add_to(aryaniken)
-folium.Marker([-6.253113, 106.939471], popup='<i>Cemara Ban</i>').add_to(aryaniken)
-folium.Marker([-6.253313, 106.940807], popup='<i>Zaky Cell</i>').add_to(aryaniken)
-folium.Marker([-6.253217, 106.941282], popup='<i>Ameira Bakery & Cake</i>').add_to(aryaniken)
-folium.Marker([-6.252342, 106.942264], popup='<i>Pondok Kelapa Gardenia</i>').add_to(aryaniken)
-folium.Marker([-6.252246, 106.943587], popup='<i>PT. Medan Andalas</i>').add_to(aryaniken)
-
-
