@@ -22,6 +22,10 @@ folium.Marker([-6.253313, 106.940807], popup='<i>Zaky Cell</i>').add_to(bekasi)
 folium.Marker([-6.253217, 106.941282], popup='<i>Ameira Bakery & Cake</i>').add_to(bekasi)
 folium.Marker([-6.252342, 106.942264], popup='<i>Pondok Kelapa Gardenia</i>').add_to(bekasi)
 folium.Marker([-6.252246, 106.943587], popup='<i>PT. Medan Andalas</i>').add_to(bekasi)
+
+import folium
+
+bekasi = folium.Map(location=[-5.148298,  119.435022],zoom_start=10,)
 folium.Marker(location=[-6.173932, 106.972844],popup='Medan Satria',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.263362, 106.908820],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.386206, 106.914999],popup='Jatikarya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
