@@ -22,6 +22,16 @@ folium.Marker([-6.253313, 106.940807], popup='<i>Zaky Cell</i>').add_to(bekasi)
 folium.Marker([-6.253217, 106.941282], popup='<i>Ameira Bakery & Cake</i>').add_to(bekasi)
 folium.Marker([-6.252342, 106.942264], popup='<i>Pondok Kelapa Gardenia</i>').add_to(bekasi)
 folium.Marker([-6.252246, 106.943587], popup='<i>PT. Medan Andalas</i>').add_to(bekasi)
+folium.Marker([-6.250408, 106.983760], popup='<i>Grand Metropolitan</i>').add_to(bekasi)
+folium.Marker([-6.255354, 106.987588], popup='<i>Pekayon Jaya</i>').add_to(bekasi)
+folium.Marker([-6.242471, 106.999399], popup='<i>Marga Jaya</i>').add_to(bekasi)
+folium.Marker([-6.271030, 106.972623], popup='<i>Jl. Gardenia</i>').add_to(bekasi)
+folium.Marker([-6.269782, 106.987569], popup='<i>Jl. Niaga Raya</i>').add_to(bekasi)
+folium.Marker([-6.265295, 106.976031], popup='<i>Jl. Pakis Raya</i>').add_to(bekasi)
+folium.Marker([-6.268110, 106.982268], popup='<i>Jl. Cendana 3 23</i>').add_to(bekasi)
+folium.Marker([-6.265551, 106.982300], popup='<i>Jl. Irigasi No.1</i>').add_to(bekasi)
+folium.Marker([-6.261779, 106.987472], popup='<i>Rumah Yatim</i>').add_to(bekasi)
+folium.Marker([-6.256425, 106.993085], popup='<i>Jl. Jend. Ahmad Yani No.18</i>').add_to(bekasi)
 
 import folium
 
@@ -57,3 +67,5 @@ folium.Marker(location=[-6.245746, 106.988813],popup='Waroeng 222',icon=folium.I
 folium.Marker(location=[-6.246189, 106.988671],popup='Farazi Bakery',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.246414, 106.988303],popup='Istana Tekstile',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.248572, 106.9884466],popup='Metropolitan Mall Bekasi Barat',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+
+
