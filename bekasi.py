@@ -1,13 +1,7 @@
 import folium
 
-bekasi = folium.Map(
-    location=[-6.226695, 106.996265],
-    zoom_start=12,
-    tiles='Stamen Terrain'
-)
-
+bekasi = folium.Map(location=[-6.226695, 106.996265],zoom_start=12,tiles='Stamen Terrain')
 tooltip = 'Click me!'
-
 folium.Marker([-6.330075, 107.011625], popup='<i>Bekasi Timur Regency 3</i>').add_to(bekasi)
 folium.Marker([-6.316507, 107.009242], popup='<i>SMPN 10 Bekasi</i>').add_to(bekasi)
 folium.Marker([-6.320767, 107.016391], popup='<i>KFC Zambrud</i>').add_to(bekasi)
