@@ -61,7 +61,7 @@ folium.Marker(location=[-6.250408, 106.983760],popup='Grand Metropolitan',icon=f
 folium.Marker(location=[-6.255354, 106.987588],popup='Pekayon Jaya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.242471, 106.999399],popup='Marga Jaya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.271030, 106.972623],popup='Jl. Gardenia',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
-folium.Mafolium.Marker(location=[-6.253217, 106.941282],popup='Ameira Bakery & Cake',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.253217, 106.941282],popup='Ameira Bakery & Cake',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.252342, 106.942264],popup='Pondok Kelapa Gardenia',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.252246, 106.943587],popup='PT. Medan Andalas',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.250408, 106.983760],popup='Grand Metropolitan',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
@@ -111,4 +111,13 @@ folium.Marker(location=[-6.268676, 107.016978],popup='Rumah Makan Padang Ananda'
 folium.Marker(location=[-6.259899, 106.959496],popup='Rumah Makan Padang Ridho Minang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.192816, 107.005969],popup='Restoran Padang Sederhana Kaliabang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 
-
+folium.Marker(location=[-6.261098, 106.977382],popup='Pondok Pekayon Indah',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.261647, 106.976518],popup='PT. Sukses Abadi Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.262665, 106.973439],popup='Typica Coffee',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.258217, 107.002502],popup='Kirana Sport Center',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.253529, 106.976433],popup='Perumahan Taman Cikas',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.250927, 106.974947],popup='The Green View',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.234741, 106.989955],popup='Balai Besar Pengembangan Latihan Kerja Luar Negeri CEVEST',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.236159, 106.991701],popup='Gor Basket Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.236906, 106.991165],popup='Kantor Imigrasi Kelas II Kota Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.234602, 106.994244],popup='Badan Pelayanan Perizinan Terpadu Pemerintah Kota Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
