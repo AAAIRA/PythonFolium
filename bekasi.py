@@ -99,3 +99,16 @@ folium.Marker(location=[-6.1862869, 106.9774507],popup='Carrefour Harapan Indah'
 folium.Marker(location=[-6.1862853, 106.9769199],popup='Pempek Gaby',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.1869222, 106.9794496],popup='Panties Pizza Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.1868356, 106.9792888],popup='Ayam Geprek Benzu Harapan Indah',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+
+folium.Marker(location=[-6.190084, 107.016395],popup='Rumah Makan Padang Putri Minang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.205814, 107.027292],popup='Rumah Makan Padang Ega',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.205489, 107.006993],popup='Rumah Makan Karya Minang Masakan Padang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.214582, 107.025618],popup='Rumah Makan Padang Asri jaya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.190084, 107.016395],popup='Rumah Makan Padang Putri Minang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.213055, 107.038669],popup='Rumah Makan Padang Selvi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.214092, 106.984053],popup='Rumah Makan Padang Si Kumbang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.268676, 107.016978],popup='Rumah Makan Padang Ananda',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.259899, 106.959496],popup='Rumah Makan Padang Ridho Minang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.192816, 107.005969],popup='Restoran Padang Sederhana Kaliabang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+
+
