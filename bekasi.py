@@ -71,7 +71,7 @@ folium.Marker(location=[-6.242471, 106.999399],popup='Marga Jaya',icon=folium.Ic
 folium.Marker(location=[-6.271030, 106.972623],popup='Jl. Gardenia',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.269782, 106.987569],popup='Jl. Niaga Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.265295, 106.976031],popup='Jl. Pakis Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
-folium.Marker(location=[-6.268110, 106.982268],popup='Jl. Cendana 3 23',icon=folium.Icon(icon='info-sign')).add_to(bekasi)rker(location=[-6.269782, 106.987569],popup='Jl. Niaga Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.268110, 106.982268],popup='Jl. Cendana 3 23',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.265295, 106.976031],popup='Jl. Pakis Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.233056, 106.990639],popup='Pondok Gabus Lukman',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.265551, 106.982300],popup='Jl. Irigasi No.1',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
