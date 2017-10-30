@@ -12,6 +12,17 @@ folium.Marker(location=[-6.223090, 107.004950],popup='Marga Mulya',icon=folium.I
 folium.Marker(location=[-6.328883, 106.953452],popup='Jatisari',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.341167, 107.003577],popup='Bantar Gebang',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 
+folium.Marker(location=[-6.239988, 106.972076],popup='Masjid Al Ihsan',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.246114, 106.986321],popup='Alan Toko Baju',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.245757, 106.988849],popup='Waroeng 222',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.245590, 106.992884],popup='Islamic Centre Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.244847, 106.995384],popup='Asrama Haji Embakarsi Jakarta',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.241302, 106.993340],popup='XL Center Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.236922, 106.991188],popup='Kantor Imigrasi Kelas II Kota Bekasi',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.230975, 106.986369],popup='PT. Lobunta Kencana Raya',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.228306, 106.981889],popup='Polsek Bekasi Barat',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.224777, 106.983739],popup='Rumah Makan Lesehan Lala',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+
 folium.Marker(location=[-6.261997, 106.908991],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.296977, 106.913111],popup='Jatirahayu',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
 folium.Marker(location=[-6.310456, 107.036364],popup='Cimuning',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
