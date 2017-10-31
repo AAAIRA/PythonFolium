@@ -164,6 +164,6 @@ folium.Marker(location=[-6.249437, 106.949024],popup='SPBU Shell',icon=folium.Ic
 folium.Marker(location=[-6.250543, 106.941906],popup='Masjid Asy Syakirin',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.245321, 106.929987],popup='Komplek Billy Moon',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.243439, 106.926138],popup='Harris Residence',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.241793, 106.925966],popup='Studio Insan TV',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.241409, 106.926089],popup='Coffee Brew',icon=folium.Icon(icon='info-sign')).add_to(m)
 
 
