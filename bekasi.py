@@ -199,6 +199,18 @@ folium.Marker(location=[-6.221338, 107.002072],popup='Masjid Raya Al Azhar Summa
 folium.Marker(location=[-6.226764, 107.006285],popup='Masjid Jami Asy-syifa',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.229048, 107.012906],popup='Masjid Al Falah Bekasi Permai',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.276093, 106.991484],popup='St. Elisabeth Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.274865, 106.976720],popup='Rumah Sakit Anna',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.294498, 106.963526],popup='Kartika Husada Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.269361, 106.998805],popup='Rumah Sakit Hosana Medica Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.232924, 107.010684],popup='Mekar Sari Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.242719, 107.026495],popup='Sentosa General Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.291087, 107.031571],popup='Rumah Sakit Permata Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.308472, 107.016591],popup='Rumah Sakit Mustika Medika',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.272780, 107.023452],popup='Multazam Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.240941, 106.992667],popup='Rumah Sakit Mitra Keluarga',icon=folium.Icon(icon='info-sign')).add_to(m)
+
+
 
 
 
