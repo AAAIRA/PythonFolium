@@ -166,6 +166,17 @@ folium.Marker(location=[-6.245321, 106.929987],popup='Komplek Billy Moon',icon=f
 folium.Marker(location=[-6.243439, 106.926138],popup='Harris Residence',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.240700, 106.924050],popup='KBC Trainning Sport',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.237544, 106.972408],popup='Jl. Mataram I No.15',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.237994, 106.976554],popup='Jl. Bungur 6 No.51',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.237785, 106.977480],popup='Jl. Cemp. 5 No.113',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.239345, 106.974673],popup='Jakasampurna',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.240563, 106.975623],popup='Cendana 18',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.238096, 106.976963],popup='Jl. Bungur 7 No.79',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.239846, 106.972159],popup='Jl. Majapahit Blok Du 16 No.7',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.240544, 106.973614],popup='Bistara Bubble Drinks',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.240937, 106.974940],popup='Jl. Cendana 18 No.44',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.241128, 106.978775],popup='Jl. H. Sentir No.33',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 
 
 
