@@ -100,6 +100,17 @@ folium.Marker(location=[-6.298767, 106.988846],popup='SMPN 8 BEKASI',icon=folium
 folium.Marker(location=[-6.292222, 106.964639],popup='SMPN 9 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.316533, 107.009239],popup='SMPN 10 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.255114, 106.950727],popup='SD ASSHODRIYAH 9 ISLAMIC PRIMARY SCHOOL',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.263909, 106.951083],popup='SD EDELWEISS',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.255006, 106.951750],popup='SD ISLAM ARMINA',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.264550, 106.911403],popup='SD ISLAM AS SYAFIIYAH 02',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.265699, 106.952641],popup='SD ISLAM KASIH SAYANG IBU',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.249160, 106.968202],popup='Islamic Primary School',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.281264, 106.926481],popup='SD ISLAM TERPADU IQRO',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.278224, 106.918679],popup='SD MARTHA',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.259611, 106.911506],popup='SD NEGERI JATI CEMPAKA II',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.259537, 106.911495],popup='Sekolah Dasar Negeri Jaticempaka V',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 folium.Marker(location=[-6.1795576, 106.9751286],popup='Kantor Pemasaran Kota Harapan Indah',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.1821066, 106.9751286],popup='Warkop Masa Gitu',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.1820743, 106.9751246],popup='PHD Harapan Indah',icon=folium.Icon(icon='info-sign')).add_to(m)
