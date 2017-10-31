@@ -155,7 +155,15 @@ folium.Marker(location=[-6.2076484, 107.0231169],popup='Susu Kambing Etawa',icon
 folium.Marker(location=[-6.2093547, 107.0222823],popup='Hobi Mainan',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2099893, 107.0222835],popup='Bekasi Vapor Shop',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.247274, 106.975085],popup='Jaka Permai Water Park',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.248898, 106.969135],popup='Super Indo Kalimalang',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.250207, 106.968957],popup='LBPP LIA Galaxy',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.248097, 106.961163],popup='17Seven',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.249196, 106.957794],popup='Bakmi Kalimalang',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.249437, 106.949024],popup='SPBU Shell',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.250543, 106.941906],popup='Masjid Asy Syakirin',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.245321, 106.929987],popup='Komplek Billy Moon',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.243439, 106.926138],popup='Harris Residence',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.241793, 106.925966],popup='Studio Insan TV',icon=folium.Icon(icon='info-sign')).add_to(m)
 
 
-
-m
