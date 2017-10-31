@@ -177,6 +177,17 @@ folium.Marker(location=[-6.240544, 106.973614],popup='Bistara Bubble Drinks',ico
 folium.Marker(location=[-6.240937, 106.974940],popup='Jl. Cendana 18 No.44',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.241128, 106.978775],popup='Jl. H. Sentir No.33',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.240735, 106.999485],popup='Al-Barkah Bekasi Great Mosque',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.243510, 107.004884],popup='Great Mosque El-Muwahhidin',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.234958, 107.011139],popup='Masjid Al-Muqorrobin',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.238755, 107.007234],popup='Masjid Jami Islahul Ummat',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.240057, 107.008193],popup='Masjid Jami Al-Huda',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.243842, 107.016476],popup='Masjid Jami Al Anwar',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.244841, 107.045918],popup='Masjid Nurul Qomar',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.221338, 107.002072],popup='Masjid Raya Al Azhar Summarecon Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.226764, 107.006285],popup='Masjid Jami Asy-syifa',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.229048, 107.012906],popup='Masjid Al Falah Bekasi Permai',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 
 
 
