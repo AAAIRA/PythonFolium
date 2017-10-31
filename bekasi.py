@@ -167,3 +167,9 @@ folium.Marker(location=[-6.243439, 106.926138],popup='Harris Residence',icon=fol
 folium.Marker(location=[-6.240700, 106.924050],popup='KBC Trainning Sport',icon=folium.Icon(icon='info-sign')).add_to(m)
 
 
+
+
+
+
+
+m
