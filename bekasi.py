@@ -1,6 +1,6 @@
 import folium
 
-m = folium.Map(location=[-6.241586,  106.992416],zoom_start=10,)
+m = folium.Map(location=[-6.241586,  106.992416],zoom_start=11)
 folium.Marker(location=[-6.173932, 106.972844],popup='Medan Satria',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.263362, 106.908820],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.386206, 106.914999],popup='Jatikarya',icon=folium.Icon(icon='info-sign')).add_to(m)
@@ -49,7 +49,7 @@ folium.Marker(location=[-6.246491, 107.004786],popup='STIKES Bani Saleh',icon=fo
 folium.Marker(location=[-6.254557, 106.989730],popup='Revo Town',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.256301, 106.934319],popup='Rumah Belajar Persada',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.256238, 106.934874],popup='Kafe Taman Sari',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.254354, 106.936900],popup='Bali Ratih',icon=folium.Icon(icon='info-sign')).add_to(bekasi)
+folium.Marker(location=[-6.254354, 106.936900],popup='Bali Ratih',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.254237, 106.938287],popup='Warung Pak Teguh Uban',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.253113, 106.939471],popup='Cemara Ban',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.253313, 106.940807],popup='Zaky Cell',icon=folium.Icon(icon='info-sign')).add_to(m)
