@@ -254,7 +254,16 @@ folium.Marker(location=[-6.275761, 106.966261],popup='Jln. H. Gotih',icon=folium
 folium.Marker(location=[-6.275297, 106.963300],popup='Warung Yi Min',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.276150, 106.963606],popup='Lecko Kitchen',icon=folium.Icon(icon='info-sign')).add_to(m)
 
-
+folium.Marker(location=[-6.177558, 106.997266],popup='Jl. Taman Harapan Baru Tim. 3',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.182592, 107.002795],popup='Jl. Pd. Ungu Permai',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.183277, 106.993236],popup='Jl. Tmn.Crissan IV',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.185592, 106.995686],popup='Jl. Taman Aster V',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.173035, 107.001144],popup='Kaliabang Tengah',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.173471, 106.993904],popup='Jl. Flamboyan Utama I',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.184523, 106.996640],popup='Jl. Camelia IV 5-12',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.188182, 106.986103],popup='Jl. Duta Bumi Sector 2',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.182334, 106.987853],popup='Jl. Cendrawasih 21',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.191142, 107.000087],popup='Jl. Kelinci 2 38-40',icon=folium.Icon(icon='info-sign')).add_to(m)
 
 
 
