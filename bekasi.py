@@ -210,6 +210,17 @@ folium.Marker(location=[-6.308472, 107.016591],popup='Rumah Sakit Mustika Medika
 folium.Marker(location=[-6.272780, 107.023452],popup='Multazam Hospital',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.240941, 106.992667],popup='Rumah Sakit Mitra Keluarga',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.308359, 107.010920],popup='Jl. Bengkong 11',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.300246, 107.020448],popup='Jl. Asem Jaya 26-22',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.303692, 107.031475],popup='Jl. Bkkbn No.5',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.301915, 107.023604],popup='Jl Graha Harapan',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.308727, 107.021412],popup='Jl. Zamrud Utara IV 36-2',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.300573, 107.035033],popup='Jl. bayan II 16-27',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.309533, 107.028201],popup='Jl. WR. Supratman',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.312594, 107.022234],popup='Soto Lamongan 40',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.309841, 107.020771],popup='Jl. Zamrud I-A',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.312032, 107.025937],popup='l. Zamrud Utara Raya Blok U1 No.17',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 
 
 
