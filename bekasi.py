@@ -67,6 +67,17 @@ folium.Marker(location=[-6.252246, 106.943587],popup='PT. Medan Andalas',icon=fo
 folium.Marker(location=[-6.250408, 106.983760],popup='Grand Metropolitan',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.255354, 106.987588],popup='Pekayon Jaya',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.231289, 107.013766],popup='Aida Nusantara',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.230607, 107.014190],popup='Toko Sembako ADI',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.231211, 107.014107],popup='Sosis Bakar Bandung',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.231935, 107.013151],popup='ATM Mandiri',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.230928, 107.014129],popup='RM. Selvi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.231965, 107.013770],popup='Apotek Roxy Mekarsari',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.230184, 107.014620],popup='Bakso Jontor',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.229973, 107.014731],popup='Kedai Keleus',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.229742, 107.015866],popup='Lanang Barbershop',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.229689, 107.016084],popup='Hen Gemstone',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 folium.Marker(location=[-6.242471, 106.999399],popup='Marga Jaya',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.271030, 106.972623],popup='Jl. Gardenia',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.269782, 106.987569],popup='Jl. Niaga Raya',icon=folium.Icon(icon='info-sign')).add_to(m)
