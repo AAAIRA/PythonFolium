@@ -89,6 +89,17 @@ folium.Marker(location=[-6.265551, 106.982300],popup='Jl. Irigasi No.1',icon=fol
 folium.Marker(location=[-6.261779, 106.987472],popup='Rumah Yatim',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.256425, 106.993085],popup='Jl. Jend. Ahmad Yani No.18',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.259934, 106.994837],popup='Perguruan Tinggi Bina Insani',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.249022, 107.016110],popup='Akademi Keuangan Dan Perbankan Indonesia',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.256887, 107.146892],popup='Akademi Manajemen Informatika Komputer Cikarang',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.278041, 107.014525],popup='Midwifery Academy Gema Nusantara Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.234286, 106.970707],popup='Concord School Of English',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.250566, 107.014022],popup='Institut Jepang Indonesia Amerika',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.227581, 106.990679],popup='Lembaga Pendidikan YAI',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.318861, 107.136208],popup='Polytechnic Gunakarya Indonesia',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.283077, 107.168870],popup='President University Medical Center',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.257867, 107.006288],popup='Fakultas Teknik UNISMA Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+
 folium.Marker(location=[-6.236498, 106.990475],popup='SD ISLAM AL HUSNA',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.227008, 107.011249],popup='SMAN 1 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.240500, 106.991152],popup='SMAN 2 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
