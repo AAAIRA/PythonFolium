@@ -243,6 +243,18 @@ folium.Marker(location=[-6.312594, 107.022234],popup='Soto Lamongan 40',icon=fol
 folium.Marker(location=[-6.309841, 107.020771],popup='Jl. Zamrud I-A',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.312032, 107.025937],popup='l. Zamrud Utara Raya Blok U1 No.17',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+folium.Marker(location=[-6.266011, 106.970767],popup='Mie Ayam Bangka Awat',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.266763, 106.973688],popup='Kantor Camat Bekasi Selatan',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.267952, 106.974171],popup='Jln. Taman Gradenia Tim',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.270754, 106.972299],popup='ACE HARDWARE',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.271079, 106.971980],popup='Starbucks Coffee',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.273047, 106.973267],popup='Barberbox Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.274631, 106.966873],popup='Ice Cream Ceria',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.275761, 106.966261],popup='Jln. H. Gotih',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.275297, 106.963300],popup='Warung Yi Min',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.276150, 106.963606],popup='Lecko Kitchen',icon=folium.Icon(icon='info-sign')).add_to(m)
+
+
 
 
 
