@@ -122,8 +122,6 @@ folium.Marker(location=[-6.298767, 106.988846],popup='SMPN 8 BEKASI',icon=folium
 folium.Marker(location=[-6.292222, 106.964639],popup='SMPN 9 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.316533, 107.009239],popup='SMPN 10 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
 
-folium.Marker(location=[-6.316533, 107.009239],popup='SMPN 10 BEKASI',icon=folium.Icon(icon='info-sign')).add_to(m)
-
 folium.Marker(location=[-6.255114, 106.950727],popup='SD ASSHODRIYAH 9 ISLAMIC PRIMARY SCHOOL',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.263909, 106.951083],popup='SD EDELWEISS',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.255006, 106.951750],popup='SD ISLAM ARMINA',icon=folium.Icon(icon='info-sign')).add_to(m)
@@ -289,3 +287,4 @@ folium.Marker(location=[-6.2567853, 106.9688966],popup='Cafe Special Curry',icon
 folium.Marker(location=[-6.2550554, 106.9684699],popup='Dominos Pizza - Taman Galaxy',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2556816, 106.967795],popup='Toko Bahan Kue Efratos',icon=folium.Icon(icon='info-sign')).add_to(m)
 
+m
