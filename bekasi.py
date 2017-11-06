@@ -287,4 +287,13 @@ folium.Marker(location=[-6.2567853, 106.9688966],popup='Cafe Special Curry',icon
 folium.Marker(location=[-6.2550554, 106.9684699],popup='Dominos Pizza - Taman Galaxy',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2556816, 106.967795],popup='Toko Bahan Kue Efratos',icon=folium.Icon(icon='info-sign')).add_to(m)
 
-m
+folium.Marker(location=[-6.2103783, 107.0207688],popup='Buun Koeffie',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2095559, 107.0220345],popup='Pasar Telaga Mas Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2080773, 107.0214317],popup='Watras,Gayeng',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2079642, 107.024119],popup='Toko Tian',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2095772, 107.0239142],popup='Rumah Pempek',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.20961, 107.0250916],popup='Elud Cake & Bakery',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2101975, 107.0239563],popup='Apartemen Platinum East Residence',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2112445, 107.0222704],popup='Ayam Penyet Mbak Yati',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2123292, 107.0216582],popup='Lapo Parsaoran',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(location=[-6.2106566, 107.0214136],popup='RM.telaga Mas',icon=folium.Icon(icon='info-sign')).add_to(m)
