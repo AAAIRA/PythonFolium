@@ -296,4 +296,8 @@ folium.Marker(location=[-6.20961, 107.0250916],popup='Elud Cake & Bakery',icon=f
 folium.Marker(location=[-6.2101975, 107.0239563],popup='Apartemen Platinum East Residence',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2112445, 107.0222704],popup='Ayam Penyet Mbak Yati',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2123292, 107.0216582],popup='Lapo Parsaoran',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2106566, 107.0214136],popup='RM.telaga Mas',icon=folium.Icon(icon='info-sign')).add_to(m)
+folium.Marker(
+location=[-6.2106566, 107.0214136],
+popup='RM.telaga Mas',
+icon=folium.Icon(color='pink', icon='info-sign')
+).add_to(m)
