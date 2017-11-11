@@ -297,3 +297,6 @@ folium.Marker(location=[-6.2101975, 107.0239563],popup='Apartemen Platinum East 
 folium.Marker(location=[-6.2112445, 107.0222704],popup='Ayam Penyet Mbak Yati',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2123292, 107.0216582],popup='Lapo Parsaoran',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2106566, 107.0214136],popup='RM.telaga Mas',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
+
+
+m
