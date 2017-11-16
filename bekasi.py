@@ -23,9 +23,9 @@ def masukkin(apa,ini):
 def simpan(anu,gede):
 	anu.save(gede)
 
-d = masukkin(-6.966667, 110.416667)
-c = hitam(-6.966667, 110.416667)
-m = inisiasi(-6.966667, 110.416667)
+d = masukkin(-6.241586,  106.992416)
+c = hitam(-6.241586,  106.992416)
+m = inisiasi(-6.241586,  106.992416)
 tooltip = 'Click me!'
 
 m = folium.Map(location=[-6.241586,  106.992416],zoom_start=11)
@@ -293,28 +293,6 @@ folium.Marker(location=[-6.188182, 106.986103],popup='Jl. Duta Bumi Sector 2',ic
 folium.Marker(location=[-6.182334, 106.987853],popup='Jl. Cendrawasih 21',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.191142, 107.000087],popup='Jl. Kelinci 2 38-40',icon=folium.Icon(icon='info-sign')).add_to(m)
 
-folium.Marker(location=[-6.277199, 106.989112],popup='Sekolah Victory Plus',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.275524, 106.986982],popup='GKI Kemang Pratama Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.274415, 106.986708],popup='Pegadaian Kemang Pratama',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.275773, 106.985169],popup='Tarida Pork Finest',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.275916, 106.980567],popup='Komplek Depnaker',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.277424, 106.974673],popup='Scooter VIP',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.277659, 106.975682],popup='Richeese Factory Pekayon',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.274258, 106.974348],popup='Mie Abang Adek',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.279185, 106.970303],popup='Cikunir Agency',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.280625, 106.974562],popup='Graha Girsang',icon=folium.Icon(icon='info-sign')).add_to(m)
-
-folium.Marker(location=[-6.2562756, 106.9687689],popup='Double U Steak by Chef Widhi Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2561563, 106.9676872],popup='Kantor Pemasaran Grand Galaxy City',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2566089, 106.9684306],popup='Bebek Goreng H. Slamet',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2554973, 106.9683822],popup='Toko Aspindo Agency',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2548195, 106.9681916],popup='Warung Enon',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2556096, 106.9686064],popup='Suicide Anthem Store ( BKS )',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2557094, 106.9686731],popup='BLOODS STORE GALAXY',icon=folium.Icon(icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2567853, 106.9688966],popup='Cafe Special Curry',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2550554, 106.9684699],popup='Dominos Pizza - Taman Galaxy',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-folium.Marker(location=[-6.2556816, 106.967795],popup='Toko Bahan Kue Efratos',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
-
 folium.Marker(location=[-6.2103783, 107.0207688],popup='Buun Koeffie',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2095559, 107.0220345],popup='Pasar Telaga Mas Bekasi',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2080773, 107.0214317],popup='Watras,Gayeng',icon=folium.Icon(icon='info-sign')).add_to(m)
@@ -326,6 +304,30 @@ folium.Marker(location=[-6.2112445, 107.0222704],popup='Ayam Penyet Mbak Yati',i
 folium.Marker(location=[-6.2123292, 107.0216582],popup='Lapo Parsaoran',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2106566, 107.0214136],popup='RM.telaga Mas',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
 m
+
+folium.Marker(location=[-6.2562756, 106.9687689],popup='Double U Steak by Chef Widhi Bekasi',icon=folium.Icon(icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2561563, 106.9676872],popup='Kantor Pemasaran Grand Galaxy City',icon=folium.Icon(icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2566089, 106.9684306],popup='Bebek Goreng H. Slamet',icon=folium.Icon(color='pink', icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2554973, 106.9683822],popup='Toko Aspindo Agency',icon=folium.Icon(icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2548195, 106.9681916],popup='Warung Enon',icon=folium.Icon(color='pink', icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2556096, 106.9686064],popup='Suicide Anthem Store ( BKS )',icon=folium.Icon(icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2557094, 106.9686731],popup='BLOODS STORE GALAXY',icon=folium.Icon(icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2567853, 106.9688966],popup='Cafe Special Curry',icon=folium.Icon(color='pink', icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2550554, 106.9684699],popup='Dominos Pizza - Taman Galaxy',icon=folium.Icon(color='pink', icon='info-sign')).add_to(c)
+folium.Marker(location=[-6.2556816, 106.967795],popup='Toko Bahan Kue Efratos',icon=folium.Icon(color='pink', icon='info-sign')).add_to(c)
+c
+
+folium.Marker(location=[-6.277199, 106.989112],popup='Sekolah Victory Plus',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.275524, 106.986982],popup='GKI Kemang Pratama Bekasi',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.274415, 106.986708],popup='Pegadaian Kemang Pratama',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.275773, 106.985169],popup='Tarida Pork Finest',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.275916, 106.980567],popup='Komplek Depnaker',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.277424, 106.974673],popup='Scooter VIP',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.277659, 106.975682],popup='Richeese Factory Pekayon',icon=folium.Icon(color='pink', icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.274258, 106.974348],popup='Mie Abang Adek',icon=folium.Icon(color='pink', icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.279185, 106.970303],popup='Cikunir Agency',icon=folium.Icon(icon='info-sign')).add_to(d)
+folium.Marker(location=[-6.280625, 106.974562],popup='Graha Girsang',icon=folium.Icon(icon='info-sign')).add_to(d)
+d
 simpan(m,'4.html')
 simpan(c,'5.html')
 simpan(d,'6.html')
