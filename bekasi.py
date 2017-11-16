@@ -1,5 +1,35 @@
 import folium
 
+import folium
+def inisiasi(long,lat):
+	m = folium.Map(
+    location=[long,lat],
+    zoom_start=12,
+    tiles='Stamen Terrain')
+	return m
+	
+def hitam(long,lat):
+	c = folium.Map(
+    location=[long,lat],
+    zoom_start=12,
+    tiles='Stamen Toner')	
+	return c
+
+def masukkin(apa,ini):
+	d = folium.Map(
+	location=[apa,ini],
+	zoom_start=12,
+    tiles='Stamen Terrain')	
+	return d
+	
+def simpan(anu,gede):
+	anu.save(gede)
+
+d = masukkin(-6.966667, 110.416667)
+c = hitam(-6.966667, 110.416667)
+m = inisiasi(-6.966667, 110.416667)
+tooltip = 'Click me!'
+
 m = folium.Map(location=[-6.241586,  106.992416],zoom_start=11)
 folium.Marker(location=[-6.173932, 106.972844],popup='Medan Satria',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.263362, 106.908820],popup='Jaticempaka',icon=folium.Icon(icon='info-sign')).add_to(m)
@@ -298,5 +328,7 @@ folium.Marker(location=[-6.2112445, 107.0222704],popup='Ayam Penyet Mbak Yati',i
 folium.Marker(location=[-6.2123292, 107.0216582],popup='Lapo Parsaoran',icon=folium.Icon(icon='info-sign')).add_to(m)
 folium.Marker(location=[-6.2106566, 107.0214136],popup='RM.telaga Mas',icon=folium.Icon(color='pink', icon='info-sign')).add_to(m)
 
-
+simpan(m,'4.html')
+simpan(c,'5.html')
+simpan(d,'6.html')
 m
